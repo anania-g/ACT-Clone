@@ -1,0 +1,102 @@
+#logo{
+    margin-top:20px;
+    margin-left: 40px;
+}
+#whole-nav{
+    position:absolute;
+}
+#nav-bar{
+    background:#337AB7;
+    height: 150px;
+    width: 100%;
+    margin-top:10px;
+    border-radius: 5px;
+}
+ul {
+    list-style-type: none;
+  }
+nav{
+    margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
+}
+nav li {
+    display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+}
+nav a{
+    display:block;
+	padding:3px;
+	text-decoration:none;
+	color:white;
+}
+nav a:active {
+	background-color:#2C5B8E;
+	color:#fff;
+    height:35px;
+}
+nav a:hover {
+	color:#fff;
+    height:35px;
+}
+.nav-btn{
+    color:white;
+    padding:15px;
+}
+#login-card{
+    position: relative;
+    float: left;
+    top: 150px;
+    left: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.input-container {
+    display: flex;
+    width: 95%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  
+  .icon {
+    padding: 10px;
+    background: gray;
+    color: white;
+    min-width: 30px;
+    text-align: center;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border-radius: 3px;
+  }
+  
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius:5px;
+    cursor: pointer;
+    width: 95%;
+    opacity: 0.9;
+  }
+  #form{
+    float: left;
+}
+
+  #image{
+    float: left;
+    margin-left: 370px;
+  }
